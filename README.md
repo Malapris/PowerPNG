@@ -24,12 +24,8 @@ Multithreading :
 Result :
 ![image](https://user-images.githubusercontent.com/123722969/215036264-ca410a67-4ee0-456e-8cf9-161824b06ced.png)
 
-
-Demonstration : 
-
-https://user-images.githubusercontent.com/123722969/215043292-88b83596-c062-45f5-93b7-346872c1887d.mp4
-
-
+If you like this work please consider buying me a coffe :)
+https://www.buymeacoffee.com/malapris
 
 <hr>
 
