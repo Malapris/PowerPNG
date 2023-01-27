@@ -1,5 +1,6 @@
 # PowerPNG
 Multithreaded utility to recompress recursively PNG files, based on PNGQUANT (Win32 only).
+More than 50% gain !
 
 DOWNLOAD latest release here : 
 https://github.com/Malapris/PowerPNG/releases
