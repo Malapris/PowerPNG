@@ -33,4 +33,4 @@ https://user-images.githubusercontent.com/123722969/215043292-88b83596-c062-45f5
 Technical considerations :
 - PowerPNG will NOT DROP any files but your PNG files will be REPLACED by smaller ones (with the same name), only if the size is smaller.
 - PowerPNG is a batch DOS script who launches a powershell script who lanches PNGQUANT (for effective compression)
-- PNGQUANT original and updated software is available here : https://pngquant.org/
+- The binary file of PNGQUANT is provided with no known viruses. Please refer to PNGQUANT website for original and updated software : https://pngquant.org/
