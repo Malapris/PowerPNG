@@ -1,5 +1,8 @@
 # PowerPNG
-Multithreaded utility to recompress recursively PNG files, based on PNGQUANT.
+Multithreaded utility to recompress recursively PNG files, based on PNGQUANT (Win32 only).
+
+DOWNLOAD latest release here : 
+https://github.com/Malapris/PowerPNG/releases
 
 Features : 
 - Simple : just drop a folder on the shortcut and the program will find PNG files
