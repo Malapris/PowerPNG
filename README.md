@@ -10,6 +10,7 @@ Features :
 Instructions : just extract the zip file on your desktop (or anywhere you want) and drap'n'drop a folfer containing PNG files to the PowerPNG.bat icon (the one with many colors). This will launch the software :)
 
 Use the colored icon to drop a folder :
+
 ![image](https://user-images.githubusercontent.com/123722969/215035359-df3cfb73-8096-4f2d-b28e-ed1519fc7aa6.png)
 
 Compression :
