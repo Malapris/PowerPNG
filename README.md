@@ -5,10 +5,12 @@ More than 50% gain !
 DOWNLOAD latest release here : 
 https://github.com/Malapris/PowerPNG/releases
 
+![image](https://user-images.githubusercontent.com/123722969/216791664-796e00de-4ffc-4a03-a940-fb9fa4108724.png)
+
 Features : 
 - Simple : just drop a folder on the shortcut and the program will find PNG files
 - Fast ! The program is multithreaded with 5 simultaneous compressions
-- 60% Gain ! For files generated with A1111
+- 66% Gain ! For files generated with A1111 (average)
 - KEEP METADATA ! PowerPNG will keep your metadata contained in the PNG files
 
 Instructions : just extract the zip file on your desktop (or anywhere you want) and drap'n'drop a folfer containing PNG files to the PowerPNG.bat icon (the one with many colors). This will launch the software :)
